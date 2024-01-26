@@ -1,0 +1,1 @@
+{"virtualbox":{"/opt/vprofile-project":{"guestpath":"/opt/vprofile-project","hostpath":"C:/Users/aadeyanju2/vagrant-vms/vprofile-project","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/aadeyanju2/vagrant-vms/vprofile-project","disabled":false,"__vagrantfile":true}}}
